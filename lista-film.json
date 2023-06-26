@@ -1,0 +1,169 @@
+[
+  {
+    "Titolo": "Avatar",
+    "Anno": "2009",
+    "Genere": "Azione, Avventura, Fantasy",
+    "Trama": "Un marine paraplegico inviato sulla luna Pandora in una missione unica è combattuto tra seguire i suoi ordini e proteggere il mondo che sente essere la sua casa.",
+    "Tipologia": "Film"    
+  },
+  {
+    "Titolo": "I Am Legend",
+    "Anno": "2007",
+    "Genere": "Drammatico, Horror, Sci-Fi",
+    "Trama": "Anni dopo che una piaga ha ucciso la maggior parte dell'umanità e trasformato il resto in mostri, l'unico sopravvissuto a New York City lotta valorosamente per trovare una cura.",
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "300",
+    "Anno": "2006",
+    "Genere": "Azione, Drammatico, Fantasy",
+    "Trama": "Il re Leonida di Sparta e una forza di 300 uomini combattono i persiani alle Termopili nel 480 a.C.",
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "The Avengers",
+    "Anno": "2012",
+    "Genere": "Azione, Sci-Fi, Thriller",
+    "Trama": "Gli eroi più potenti della Terra devono riunirsi e imparare a combattere come una squadra se vogliono impedire al dispettoso Loki e al suo esercito alieno di schiavizzare l'umanità.",
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "The Wolf of Wall Street",
+    "Anno": "2013",
+    "Genere": "Biografico, Commedia, Drammatico",
+    "Trama": "Basato sulla storia vera di Jordan Belfort, dalla sua ascesa a ricco agente di cambio che viveva la bella vita fino alla sua caduta che coinvolse criminalità, corruzione e governo federale.",
+    "Tipologia": "Film"},
+  {
+    "Titolo": "Interstellar",
+    "Anno": "2014",
+    "Genere": "Avventura, Drammatico, Sci-Fi",
+    "Trama": "Una squadra di esploratori viaggia attraverso un wormhole nello spazio nel tentativo di garantire la sopravvivenza dell'umanità.",
+    "Tipologia": "Film"
+
+  },
+  {
+    "Titolo": "Game of Thrones",
+    "Anno": "2011–2019",
+    "Genere": "Avventura, Drammatico, Fantasy",
+    "Trama": "Mentre scoppia una guerra civile tra diverse famiglie nobili di Westeros, i figli degli ex governanti del paese tentano di salire al potere. Nel frattempo una razza dimenticata, decisa alla distruzione, progetta di tornare dopo migliaia di Annos in il Nord.",    "Tipologia": "Serie",
+    "StagioniTotali": "8"
+  },
+  {
+    "Titolo": "Vikings",
+    "Anno": "2013–2021",
+    "Genere": "Drammatico, Storico, Azione, Avventura",
+    "Trama": "Il mondo dei vichinghi prende vita attraverso il viaggio di Ragnar Lothbrok, il primo vichingo a emergere dalla leggenda norrena e sulle pagine della storia - un uomo sull'orlo del mito.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "6"
+  },
+  {
+    "Titolo": "Gotham",
+    "Anno": "2014–2019",
+    "Genere": "Azione, Poliziesco, Giallo, Drammatico, Fantastico",
+    "Trama": "La storia dietro l'ascesa alla ribalta del detective James Gordon a Gotham City negli anni prima dell'arrivo di Batman.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "5"
+  },
+  {
+    "Titolo": "Power",
+    "Anno": "2014–2020",
+    "Genere": "Drammatico",
+    "Trama": "James \"Ghost\" St. Patrick, un ricco proprietario di un night club di New York che ha tutto, serve l'élite della città e sogna in grande, vive una doppia vita come boss della droga.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "6"
+  },
+  {
+    "Titolo": "Narcos",
+    "Anno": "2015–2017",
+    "Genere": "Biografico, nero, Gangster, Drammatico, Poliziesco",
+    "Trama": "Uno sguardo alle imprese criminali del narcotrafficante colombiano Pablo Escobar.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "3"
+  },
+  {
+    "Titolo": "Breaking Bad",
+    "Anno": "2008–2013",
+    "Genere": "Drammatico, nero, Thriller, Commedia",
+    "Trama": "Un insegnante di chimica del liceo a cui è stato diagnosticato un cancro ai polmoni inoperabile si dedica alla produzione e alla vendita di metanfetamine per garantire il futuro finanziario della sua famiglia.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "5"
+  },
+  {
+    "Titolo": "Doctor Strange",
+    "Anno": "2016",
+    "Genere": "Azione, Avventura, Fantasy",
+    "Trama": "Dopo che la sua carriera è stata distrutta, un chirurgo brillante ma arrogante e presuntuoso ottiene una nuova prospettiva di vita quando uno stregone lo prende sotto la sua ala protettrice e lo addestra a difendere il mondo dal male.",
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "Rogue One: A Star Wars Story",
+    "Anno": "2016",
+    "Genere": "Azione, Avventura, Sci-Fi",
+    "Trama": "La Resistenza fa una mossa rischiosa per rubare i piani della Morte Nera, dando vita all'epica saga che seguirà.",    
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "Assassin's Creed",
+    "Anno": "2016",
+    "Genere": "Azione, Avventura, Sci-Fi",
+    "Trama": "Quando Callum Lynch esplora i ricordi del suo antenato Aguilar e acquisisce le abilità di un Maestro Assassino, scopre di essere un discendente della società segreta degli Assassini.",
+    "Tipologia": "Film"
+  },
+  {
+    "Titolo": "Luke Cage",
+    "Anno": "2016–2018",
+    "Genere": "Azione, Crime, Drammatico",
+    "Trama": "Dotata di superforza e durata da un esperimento sabotato, un uomo accusato ingiustamente scappa di prigione per diventare un supereroe a pagamento.",
+    "Tipologia": "Serie",
+    "StagioniTotali": "2"
+  },
+  {
+    "Titolo": "Avatar - La via dell'acqua",
+    "Anno": "2022",
+    "Genere": "Azione, Avventura, Sci-Fi",
+    "Trama": "Il film segue le vicende di Jake Sully, Neytiri e dei loro figli, che devono lasciare la loro casa cercando rifugio in un'altra regione di Pandora sul mare",
+    "Tipologia": "Film"
+    
+  },
+{
+  "Titolo": "The 100",
+  "Anno": "2014–2020",
+  "Genere": "Azione, Drammatico, Distopico, Postapocalittico, Sci-Fi, Avventura, Dramma adolescenziale",
+  "Trama": "Nel 2149, 97 anni dopo una guerra nucleare globale avvenuta nel 2052 che ha sconvolto il pianeta Terra, del genere umano rimane solo una stazione spaziale, l'Arca, un complesso di 12 stazioni spaziali minori che si trovavano in orbita al momento del disastro.",
+  "Tipologia": "Serie",
+  "StagioniTotali": "7"
+},
+{
+  "Titolo": "Star Wars: Episodio I - La minaccia fantasma",
+  "Anno": "1999",
+  "Genere": "Azione, Avventura, Fantastico, Sci-Fi",
+  "Trama": "La trama segue il maestro Jedi Qui-Gon Jinn e il suo apprendista Obi-Wan Kenobi mentre scortano e proteggono la regina Amidala, in viaggio dal pianeta Naboo al pianeta Coruscant per cercare una soluzione pacifica a una controversia sul commercio interplanetario che ha originato un conflitto nel sistema di Naboo; nel corso del viaggio, i protagonisti si trovano a fronteggiare il misterioso ritorno dei Sith.",
+  "Tipologia": "Film"
+
+},
+{
+  "Titolo": "Teen Wolf",
+  "Anno": "2011–2017",
+  "Genere": "Orrore, Dramma adolescenziale, Commedia drammatica, Sentimentale, Fantastico",
+  "Trama": "Una notte Scott McCall, studente non molto popolare della Beacon High High School, viene morso da un lupo mannaro: da lì Scott sarà costretto a conciliare la sua vita di teenager con quella di creatura soprannaturale. Ad aiutarlo, il suo migliore amico Stiles e Derek, un altro licantropo.",
+  "Tipologia": "Serie",
+  "StagioniTotali": "6"
+}
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
