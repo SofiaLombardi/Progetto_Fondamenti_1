@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css"/>    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@200;400;500&family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <title>Progetto Fondamenti</title>
+    <link rel="stylesheet" type="text/css" href="./style.css"></link>
+</head>
+<body>
+    <div id="app">    
+            <nav>
+              <input type="checkbox" id="click">
+              <label for="click" class="menu-btn">
+                <i class="fas fa-bars"></i>
+              </label>
+              <ul>
+                <li><router-link to="/">Homepage</router-link></li>
+                <li><router-link to="/esempi">Esempi PWA</router-link></li>
+                <li><router-link to="/film_serie">Film e Serie</router-link></li>
+                <li><router-link to="/box_commenti">Box commenti</router-link></li>
+              </ul>
+            </nav>
+       <main>
+        <router-view></router-view>
+      </main>   
+    <footer>
+      <p>Progetto Fondamenti dei Sistemi web di Sofia Lombardi</p>
+    </footer>
+    </div>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue-router@4.0.15/dist/vue-router.global.js"></script>
+    <script src="main.js"></script>
+</body>
+</html> 
