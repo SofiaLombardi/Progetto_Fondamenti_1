@@ -8,15 +8,10 @@ const Home = {
   }
 },template: 
 `<h1>Progressive Web App</h1>
-<p>Una Progressive Web App (PWA) è un'applicazione web che utilizza le tecnologie web moderne per fornire un'esperienza utente simile a quella di un'applicazione mobile nativa.<br><br>
+<p>Una Progressive Web App (PWA) è un'applicazione web che utilizza le tecnologie web moderne per fornire un'esperienza utente simile a quella delle applicazioni native, senza richiedere l'installazione di un'applicazione separata. Gli utenti possono semplicemente accedere all'applicazione tramite il browser web sul loro dispositivo e salvare l'applicazione sul loro schermo home per un facile accesso.<br><br>
 
 Le PWA sono progettate per funzionare su qualsiasi dispositivo e su qualsiasi browser moderno, senza richiedere l'installazione di un'applicazione separata. Sono costruite utilizzando tecnologie come HTML, CSS e JavaScript, e utilizzano i servizi worker per consentire il caching offline e migliorare le prestazioni dell'applicazione.  sono progettate per essere sicure, affidabili e veloci, e possono essere facilmente installate dall'utente sul dispositivo come un'applicazione normale.<br><br>
-Inoltre, hanno molte caratteristiche che le rendono molto utili per gli sviluppatori e gli utenti. Una delle principali caratteristiche è la capacità di funzionare offline, utilizzando i servizi worker per memorizzare in cache i contenuti dell'applicazione. Ciò significa che gli utenti possono accedere ai dati dell'applicazione anche quando non sono connessi a Internet.
-Un'altra caratteristica importante delle PWA è la capacità di funzionare su tutti i dispositivi, inclusi desktop, tablet e dispositivi mobili.Ciò significa che gli sviluppatori possono creare un'unica applicazione web che funzioni su tutti i dispositivi, senza dover sviluppare applicazioni native separate per ogni piattaforma.<br><br>
-
-Queste sono anche molto utili per gli utenti, in quanto offrono un'esperienza utente simile a quella delle applicazioni native, senza richiedere l'installazione di un'applicazione separata. Gli utenti possono semplicemente accedere all'applicazione tramite il browser web sul loro dispositivo e salvare l'applicazione sul loro schermo home per un facile accesso.<br><br>
-
-Inoltre, le PWA sono più veloci delle applicazioni web tradizionali e offrono un'esperienza utente più fluida, in quanto utilizzano i servizi worker per migliorare le prestazioni dell'applicazione.<br><br>
+<br>
 
 Ci sono molti vantaggi e svantaggi nell'utilizzo delle Progressive Web App (PWA), di seguito ne elenco alcuni:<br><br></p>
 <h2>Vantaggi</h2>
