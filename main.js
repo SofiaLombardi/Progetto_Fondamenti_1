@@ -20,7 +20,7 @@ Ci sono molti vantaggi e svantaggi nell'utilizzo delle Progressive Web App (PWA)
   
   <li><strong>Accessibilità</strong>: <br>Le PWA possono essere utilizzate su qualsiasi dispositivo, senza richiedere l'installazione di un'applicazione separata.</li>
  
-  <li><strong>Connettività limitata</strong>: <br>Le PWA funzionano anche offline grazie alla tecnologia di caching che consente all'utente di accedere ai contenuti anche in assenza di connessione internet</li>
+  <li><strong>Connettività illimitata</strong>: <br>Le PWA funzionano anche offline grazie alla tecnologia di caching che consente all'utente di accedere ai contenuti anche in assenza di connessione internet</li>
   
   <li><strong>Installazione rapida</strong>: <br>Le PWA possono essere installate in modo rapido e facile senza passare attraverso un app store.</li>
   
